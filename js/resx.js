@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
 document.addEventListener("DOMContentLoaded", function () {
 
     var options = {
-        strings: ["dicksucker @ grave", "''what a good boyyy''", "i love grave btw not u", "@tuvh", "@sh5"],
+        strings: ["sup guys", "''@court17 here''", "I dont fw niggers", "Lol", "Bye"],
         typeSpeed: 45,
         backSpeed: 35,
         backDelay: 500,
